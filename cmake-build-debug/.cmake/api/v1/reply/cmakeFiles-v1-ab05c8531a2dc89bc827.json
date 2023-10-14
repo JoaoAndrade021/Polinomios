@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/User/CLionProjects/Polinomios/cmake-build-debug",
-		"source" : "C:/Users/User/CLionProjects/Polinomios"
+		"build" : "C:/Users/User/Polinomios/cmake-build-debug",
+		"source" : "C:/Users/User/Polinomios"
 	},
 	"version" : 
 	{
